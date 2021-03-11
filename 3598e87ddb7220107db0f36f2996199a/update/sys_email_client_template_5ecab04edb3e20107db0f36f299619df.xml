@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_client_template">
+    <sys_email_client_template action="INSERT_OR_UPDATE">
+        <blind_copied>subhendu.b839@gmail.com&#13;
+</blind_copied>
+        <body>Hi,what is the status of your work</body>
+        <body_html/>
+        <condition/>
+        <content_type>text/plain</content_type>
+        <copied>schakr99@its.jnj.com</copied>
+        <email_client_from_address/>
+        <from>sbhatt85@its.jnj.com</from>
+        <from_generation_type>text</from_generation_type>
+        <name>Test001</name>
+        <order>100</order>
+        <recipients/>
+        <reply_to/>
+        <script_from><![CDATA[(function (fromAddressQuery, targetRecord) {
+		/**
+		 * fromAddressQuery: A GlideRecord on the table "sys_email_client_from_address". Add conditions to filter the
+		 * 		the email addresses displayed in the Email Client. 
+		 * targetRecord: A GlideRecord representing the record in which the Email Client was opened from
+		 */
+
+})(fromAddressQuery, targetRecord);]]></script_from>
+        <subject>Work in progress</subject>
+        <sys_class_name>sys_email_client_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 05:42:17</sys_created_on>
+        <sys_id>5ecab04edb3e20107db0f36f299619df</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Test001</sys_name>
+        <sys_package display_value="Safety" source="x_469584_safety">3598e87ddb7220107db0f36f2996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">3598e87ddb7220107db0f36f2996199a</sys_scope>
+        <sys_update_name>sys_email_client_template_5ecab04edb3e20107db0f36f299619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 05:47:56</sys_updated_on>
+        <table>incident</table>
+    </sys_email_client_template>
+</record_update>

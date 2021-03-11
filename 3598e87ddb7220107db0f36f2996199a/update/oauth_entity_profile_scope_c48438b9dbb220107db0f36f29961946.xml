@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="profile-for-4484f0f5dbb220107db0f36f2996191e">448438b9dbb220107db0f36f29961940</oauth_entity_profile>
+        <oauth_entity_scope display_value="scope-2">4c8438b9dbb220107db0f36f2996193e</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 10:32:11</sys_created_on>
+        <sys_id>c48438b9dbb220107db0f36f29961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>448438b9dbb220107db0f36f29961940</sys_name>
+        <sys_package display_value="Safety" source="x_469584_safety">3598e87ddb7220107db0f36f2996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">3598e87ddb7220107db0f36f2996199a</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_c48438b9dbb220107db0f36f29961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 10:32:11</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>

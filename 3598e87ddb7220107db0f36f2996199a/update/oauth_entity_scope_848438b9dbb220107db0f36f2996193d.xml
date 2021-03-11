@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="INSERT_OR_UPDATE">
+        <in_default_profile>false</in_default_profile>
+        <name>scope-1</name>
+        <oauth_entity display_value="googless">4484f0f5dbb220107db0f36f2996191e</oauth_entity>
+        <oauth_entity_scope>email</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 10:32:10</sys_created_on>
+        <sys_id>848438b9dbb220107db0f36f2996193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scope-1</sys_name>
+        <sys_package display_value="Safety" source="x_469584_safety">3598e87ddb7220107db0f36f2996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">3598e87ddb7220107db0f36f2996199a</sys_scope>
+        <sys_update_name>oauth_entity_scope_848438b9dbb220107db0f36f2996193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 10:32:10</sys_updated_on>
+    </oauth_entity_scope>
+</record_update>
