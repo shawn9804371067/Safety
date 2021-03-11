@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_canned_message">
+    <sys_email_canned_message action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <body><![CDATA[<p>Hi ,need updates.</p>]]></body>
+        <condition/>
+        <group/>
+        <sys_class_name>sys_email_canned_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 05:53:46</sys_created_on>
+        <sys_id>889db042db7e20107db0f36f299619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QuickTest</sys_name>
+        <sys_package display_value="Safety" source="x_469584_safety">3598e87ddb7220107db0f36f2996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">3598e87ddb7220107db0f36f2996199a</sys_scope>
+        <sys_update_name>sys_email_canned_message_889db042db7e20107db0f36f299619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 05:53:46</sys_updated_on>
+        <table>incident</table>
+        <title>QuickTest</title>
+        <user/>
+    </sys_email_canned_message>
+</record_update>
